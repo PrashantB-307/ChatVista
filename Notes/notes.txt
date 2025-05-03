@@ -1,0 +1,19 @@
+Run Backend ==>
+Go Backend Folder -> cd Backend
+npm run dev
+
+Run Frontend ==>
+Go Frontend Folder -> cd Frontend
+npm run dev
+
+React JS + Java Script
+Node JS + Express JS
+Mongo DB
+Stream.IO
+Tailwind CSS
+Daisy UI
+TanStack Query
+Zustand
+
+
+
